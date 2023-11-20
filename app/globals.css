@@ -26,8 +26,3 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-#chart {
-  max-width: 650px;
-  margin: 35px auto;
-}
-
